@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://artisher.github.io/React-Simple-Auth-based-Data-Viewer",
+  "homepage": "https://artisher.github.io/react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
